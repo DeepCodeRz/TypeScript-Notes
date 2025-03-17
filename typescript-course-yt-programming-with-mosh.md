@@ -1,4 +1,4 @@
-# TypeScript Course - YT / Programming with Mosh
+# TypeScript Course - YT / Tech with Tim
 
 # TypeScript Nedir?
 
